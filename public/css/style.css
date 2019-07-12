@@ -1,0 +1,8 @@
+.product-card:hover {
+  box-shadow: 5px 5px 10px 1px #cccccc;
+}
+
+.product-image {
+  width: fit-content;
+  height: 360px;
+}
